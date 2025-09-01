@@ -38,7 +38,8 @@ post_max_size     = 32M
 upload_max_filesize = 16M
 date.timezone     = Asia/Ho_Chi_Minh
 ```
-Khi setup bạn sử dụng lệnh Ctrl+W để tìm dòng lệnh, lệnh Ctrl+O để lưu và lệnh Crtl+X để thoát
+Khi setup bạn sử dụng lệnh Ctrl+W để tìm dòng lệnh, lệnh Ctrl+O để lưu và lệnh Crtl+X để thoát.
+
 Khởi động lại Apache:
 ```bash
 sudo systemctl restart apache2
